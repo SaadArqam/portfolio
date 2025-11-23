@@ -206,7 +206,7 @@ export default function Projects() {
             <div className="md:col-span-2 aspect-[2/1] relative group overflow-hidden rounded-xl">
               <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black/30 opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10"></div>
               <Image
-                src="/img/project3.jpg"
+                src="/img/project3.png"
                 alt="SHARK'S SPHERE"
                 fill
                 className="object-cover"
@@ -221,7 +221,7 @@ export default function Projects() {
                   </p>
                   <div className="flex justify-between">
                     <a
-                      href="https://github.com/SaadArqam/E-Cell-2.0"
+                      href="https://github.com/SaadArqam/SharkSphere"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-1 text-sm hover:text-gray-700"
@@ -230,7 +230,7 @@ export default function Projects() {
                       <span>GitHub</span>
                     </a>
                     <a
-                      href="https://e-cell20.vercel.app/"
+                      href="https://shark-sphere-phi.vercel.app/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-1 text-sm hover:text-gray-700"
